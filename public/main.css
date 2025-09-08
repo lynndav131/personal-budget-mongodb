@@ -37,7 +37,7 @@ nav ul li a:hover  {
     color: #4d5791;
 }
 
-.hero {
+header {
     height: 350px;
     background-color: #b4c6f0;
     background-image: url('bg.png');
@@ -47,19 +47,19 @@ nav ul li a:hover  {
     padding-top: 40px;
 }
 
-.hero h1,
-.hero h2 {
+header h1,
+header h2 {
     text-align: center;
     margin: 0;
 }
 
-.hero h1 {
+header h1 {
     color: #fff;
     font-size: 4.2em;
     margin-bottom: 20px;
 }
 
-.hero h2 {
+header h2 {
     color: #4d5791;
 }
 
